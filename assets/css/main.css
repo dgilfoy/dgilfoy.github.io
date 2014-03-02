@@ -208,7 +208,10 @@ a:after {
 #skillswrap h5, p {
 	color: white;
 }
-
+#mySkills ul {
+    width: 90%;
+    margin:0 auto;
+}
 #footwrap {
 	background: #2f2f2f;
 	padding-top: 50px;
